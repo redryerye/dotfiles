@@ -1,0 +1,2 @@
+#!/bin/zsh
+brew install fish; brew install starship; brew install peco
