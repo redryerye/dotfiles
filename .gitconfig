@@ -1,0 +1,5 @@
+[user]
+	name = redryerye
+	email = yymmt3.waste@gmail.com
+[alias]
+	cleanup = !git branch --merged | grep -v '^* main$' | grep -v '^  main$' | xargs -I % git branch -d %
