@@ -3,3 +3,6 @@ detect_files = []
 
 [git_status]
 stashed = ""
+
+[swift]
+symbol = "Swift "
