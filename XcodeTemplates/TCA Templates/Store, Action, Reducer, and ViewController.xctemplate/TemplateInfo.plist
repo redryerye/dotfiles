@@ -43,6 +43,20 @@
 			<key>Default</key>
 			<string>Home</string>
 		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>reducerName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Name(camelCase):</string>
+			<key>Description</key>
+			<string>The name of the TCA Reducer</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string>home</string>
+		</dict>
 	</array>
 </dict>
 </plist>
